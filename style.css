@@ -1,0 +1,38 @@
+body {background-color: coral;
+text-align: center;}
+
+h1 {color: aqua;
+margin-left: 30px;
+font-size: 50px;
+}
+
+.balls {
+background-color: maroon;
+padding: 20px;
+}
+
+ul {list-style-type: none;
+font-size: 25px;
+}
+
+li {display: inline;}
+
+a:link {text-decoration: none;
+color: aqua;
+padding: 10px;}
+
+a:visited {color: aqua;}
+
+a:hover {text-decoration: underline;
+color: purple;}
+
+img {border-radius: 10%;}
+
+#worms {height: 250px;
+width: auto;}
+
+p {color: aqua;}
+
+#phone {height: 20px;
+width: auto;
+}
